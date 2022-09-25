@@ -1,2 +1,2 @@
 # computacao-grafica
-Repositorio para o estudo da disciplina de Computação Gráfica
+Repositorio para o estudo de Computação Gráfica
